@@ -1,0 +1,30 @@
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.csproj.AssemblyReference.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.AssemblyInfoInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.AssemblyInfo.cs
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.csproj.CoreCompileInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\bin\Debug\net6.0\Урок 1.exe
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\bin\Debug\net6.0\Урок 1.deps.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\bin\Debug\net6.0\Урок 1.runtimeconfig.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\bin\Debug\net6.0\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\bin\Debug\net6.0\Урок 1.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\refint\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\Урок 1.genruntimeconfig.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Урок 1\obj\Debug\net6.0\ref\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\bin\Debug\net6.0\Урок 1.exe
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\bin\Debug\net6.0\Урок 1.deps.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\bin\Debug\net6.0\Урок 1.runtimeconfig.json
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\bin\Debug\net6.0\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\bin\Debug\net6.0\Урок 1.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.csproj.AssemblyReference.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.AssemblyInfoInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.AssemblyInfo.cs
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.csproj.CoreCompileInputs.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\refint\Урок 1.dll
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.pdb
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\Урок 1.genruntimeconfig.cache
+C:\Users\DRUNK_ELEPHANT\Desktop\Queen\Семинары (языки программирования)\Ex01\obj\Debug\net6.0\ref\Урок 1.dll
