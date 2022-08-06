@@ -24,5 +24,5 @@ if(b == a * a)
 
 else
 {
-        Console.Write("ЛОЖЬ");
+    Console.Write("ЛОЖЬ");
 }
